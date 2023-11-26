@@ -10,7 +10,6 @@ arch:
   - amd64
   - armhf
   - armv7
-  - i386
 ingress: true
 ingress_entry: transmission/web/
 ingress_port: 9091
